@@ -6,7 +6,7 @@
 </p>
 
 
-👩‍💻 About Me:
+About Me:
 ---
 - 🎓 Currently studying **Computer Science and Engineering**
 -  💡 Interested in **AI, Machine Learning, Cyber Security**
