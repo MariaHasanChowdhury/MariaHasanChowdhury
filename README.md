@@ -4,12 +4,24 @@
 🌟 B.Sc. in Computer Science & Engineering Student <br>
 📍 Dhaka International University (DIU)
 </p>
----
+
+
 👩‍💻 About Me:
--🎓 Currently studying *Computer Science and Engineering*
--💡 Interested in *AI, Machine Learning, Cyber Security*
--🧠 I love *Problem Solving*
 ---
+🎓 Currently studying 
+
+Computer Science and Engineering
+---
+
+💡 Interested in 
+
+AI, Machine Learning, Cyber Security
+---
+🧠 I love 
+
+Problem Solving
+---
+
 💬 Ask me about  *Problem Solving*
 🛠 Languages :
 <p>
