@@ -1,8 +1,8 @@
 <h2 align="center">Assalamu Alaikum 👋, I'm Maria Hasan Chowdhury</h2>
 
 <p align="center">
-🌟 B.Sc. in Computer Science & Engineering  <br>
-📍 Dhaka International University (DIU)
+ B.Sc. in Computer Science & Engineering  <br>
+ Dhaka International University (DIU)
 </p>
 
 
