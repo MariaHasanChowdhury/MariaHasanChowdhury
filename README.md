@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2 align="center">Assalamu Alaikum 👋, I'm Maria Hasan Chowdhury</h2>
 
-<!--
-**MariaHasanChowdhury/MariaHasanChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌟 Computer Science & Engineering Student <br>
+📍 Dhaka International University (DIU)
+</p>
+👩‍💻 About Me
+🎓 Currently studying *Computer Science and Engineering*
+💡 Interested in *AI, Machine Learning, Cyber Security*
+🧠 I love *Problem Solving*
+💬 Ask me about  *Problem Solving*
+🛠 Languages :
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile — Have a great day! 😊
